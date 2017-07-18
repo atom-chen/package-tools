@@ -26,3 +26,4 @@ if __name__ == '__main__':
         os.system( 'cp 120031_empty.list 120031_%s.list'%label )
 
 
+    print 'kk'
